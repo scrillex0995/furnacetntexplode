@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.furnacetntexplode.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"TntSmeltFurnaceExplosionMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
