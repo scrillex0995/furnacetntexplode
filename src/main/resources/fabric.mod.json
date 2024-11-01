@@ -3,14 +3,14 @@
 	"id": "furnacetntexplode",
 	"version": "${version}",
 	"name": "Smeltable TNT",
-	"description": "Smelt TNT and see an explosion",
+	"description": "Smelt that TNT now, without an afraid of getting other furnaces to explode!",
 	"authors": [
 		"scrillex0995"
 	],
 	"contact": {
-		"repo": "https://github.com/bobrandriyko/oldleafdecay"
+		"repo": "https://github.com/scrillex0995/furnacetntexplode"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT License",
 	"icon": "assets/furnacetntexplode/icon.png",
 	"environment": "*",
 	"entrypoints": {},
